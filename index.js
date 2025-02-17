@@ -22,7 +22,7 @@ const UserSchema = new mongoose.Schema({
 });
 
 const User = mongoose.model('User', UserSchema);
-//sconst questions = JSON.parse(fs.readFileSync('questions.json', 'utf-8'));
+const questions = JSON.parse(fs.readFileSync('quoestions.json', 'utf-8'));
 
 app.post('/register', async (req, res) => {
     const { username, email, password } = req.body;
@@ -36,6 +36,21 @@ app.post('/register', async (req, res) => {
         res.status(500).json({ error: 'Registration failed' });
     }
 });
+app.get('/user/:userId', async (req, res) => {
+    const { userId } = req.params;
+    try {
+        const user = await User.findById(userId); // Assume User is your Mongoose model
+        if (!user) {
+            return res.status(404).json({ error: 'User not found' });
+        }
+        res.json({
+            username: user.username,
+            money: user.money
+        });
+    } catch (err) {
+        res.status(500).json({ error: 'Error fetching user data' });
+    }
+});
 
 app.post('/login', async (req, res) => {
     const { email, password } = req.body;
@@ -46,10 +61,11 @@ app.post('/login', async (req, res) => {
         const isMatch = await bcrypt.compare(password, user.password);
         if (!isMatch) return res.status(400).json({ error: 'Invalid credentials' });
 
-        const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, { expiresIn: '1h' });
-        res.json({ token, user: { username: user.username, money: user.money } });
+        //const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, { expiresIn: '1h' });
+        res.json({ user: { username: user.username, money: user.money, userId: user._id } });
     } catch (err) {
         res.status(500).json({ error: 'Login failed' });
+        console.log(err);
     }
 });
 
@@ -65,6 +81,7 @@ app.post('/update-money', async (req, res) => {
         res.json({ money: user.money });
     } catch (err) {
         res.status(500).json({ error: 'Could not update money' });
+        console.log(err);
     }
 });
 

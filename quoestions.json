@@ -1,0 +1,2202 @@
+[
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan?",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time?",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context?",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for?",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur?",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model?",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft?",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context?",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context?",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses?",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 11)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 12)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 13)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 14)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 15)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 16)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 17)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 18)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 19)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 20)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 21)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 22)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 23)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 24)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 25)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 26)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 27)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 28)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 29)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 30)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 31)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 32)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 33)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 34)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 35)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 36)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 37)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 38)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 39)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 40)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 41)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 42)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 43)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 44)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 45)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 46)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 47)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 48)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 49)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 50)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 51)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 52)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 53)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 54)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 55)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 56)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 57)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 58)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 59)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 60)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 61)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 62)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 63)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 64)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 65)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 66)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 67)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 68)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 69)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 70)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 71)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 72)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 73)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 74)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 75)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 76)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 77)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 78)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 79)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 80)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 81)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 82)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 83)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 84)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 85)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 86)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 87)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 88)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 89)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 90)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 91)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 92)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 93)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 94)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 95)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 96)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 97)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 98)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 99)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 100)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 101)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 102)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 103)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 104)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 105)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 106)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 107)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 108)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 109)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 110)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 111)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 112)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 113)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 114)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 115)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 116)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 117)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 118)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 119)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 120)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 121)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 122)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 123)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 124)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 125)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 126)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 127)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 128)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 129)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 130)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 131)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 132)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 133)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 134)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 135)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 136)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 137)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 138)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 139)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 140)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 141)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 142)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 143)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 144)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 145)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 146)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 147)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 148)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 149)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 150)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 151)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 152)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 153)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 154)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 155)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 156)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 157)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 158)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 159)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 160)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 161)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 162)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 163)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 164)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 165)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 166)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 167)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 168)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 169)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 170)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 171)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 172)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 173)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 174)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 175)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 176)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 177)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 178)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 179)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 180)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 181)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 182)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 183)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 184)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 185)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 186)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 187)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 188)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 189)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 190)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    },
+    {
+        "category": "Business Strategy & Management",
+        "question": "What is a common purpose of a business plan? (variation 191)",
+        "options": [
+            "To secure funding from investors",
+            "To outline the business goals and strategies",
+            "To provide a detailed marketing plan",
+            "To list the products and services offered"
+        ],
+        "answer": "To outline the business goals and strategies"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time? (variation 192)",
+        "options": [
+            "Income Statement",
+            "Cash Flow Statement",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+        ],
+        "answer": "Balance Sheet"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What does the acronym SWOT stand for in a business context? (variation 193)",
+        "options": [
+            "Sales, Work, Opportunities, and Targets",
+            "Strengths, Weaknesses, Opportunities, and Threats",
+            "Strategies, Workflows, Objectives, and Tactics",
+            "Systems, Web, Operations, and Technology"
+        ],
+        "answer": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "In the Lean Startup methodology, what does MVP stand for? (variation 194)",
+        "options": [
+            "Most Valuable Product",
+            "Minimum Viable Product",
+            "Maximum Value Proposition",
+            "Market Validation Process"
+        ],
+        "answer": "Minimum Viable Product"
+    },
+    {
+        "category": "Social Entrepreneurship",
+        "question": "Which of the following best describes a social entrepreneur? (variation 195)",
+        "options": [
+            "An individual who starts a business solely to maximize profit",
+            "A person who creates innovative solutions to address social issues",
+            "A manager who oversees a company's CSR initiatives",
+            "A consultant who advises startups on sustainability"
+        ],
+        "answer": "A person who creates innovative solutions to address social issues"
+    },
+    {
+        "category": "E-commerce & Technology",
+        "question": "What is the primary advantage of a dropshipping business model? (variation 196)",
+        "options": [
+            "Lower upfront inventory costs",
+            "Faster shipping times",
+            "Higher profit margins",
+            "Greater control over product quality"
+        ],
+        "answer": "Lower upfront inventory costs"
+    },
+    {
+        "category": "Famous Entrepreneurs & Companies",
+        "question": "Who founded Microsoft? (variation 197)",
+        "options": [
+            "Steve Jobs",
+            "Larry Page",
+            "Bill Gates",
+            "Jeff Bezos"
+        ],
+        "answer": "Bill Gates"
+    },
+    {
+        "category": "Finance & Investment",
+        "question": "What is equity in a business context? (variation 198)",
+        "options": [
+            "The total revenue of a company",
+            "Ownership interest in a company",
+            "A company's debt obligations",
+            "The value of a company's physical assets"
+        ],
+        "answer": "Ownership interest in a company"
+    },
+    {
+        "category": "Startups & Innovation",
+        "question": "What is bootstrapping in a startup context? (variation 199)",
+        "options": [
+            "Securing large venture capital funding",
+            "Growing a business with minimal external investment",
+            "Acquiring competitors to increase market share",
+            "Launching multiple products simultaneously"
+        ],
+        "answer": "Growing a business with minimal external investment"
+    },
+    {
+        "category": "Marketing & Sales",
+        "question": "What is a key benefit of content marketing for businesses? (variation 200)",
+        "options": [
+            "Immediate increase in sales",
+            "Building long-term customer trust and authority",
+            "Reducing product development time",
+            "Eliminating the need for advertising"
+        ],
+        "answer": "Building long-term customer trust and authority"
+    }
+]
